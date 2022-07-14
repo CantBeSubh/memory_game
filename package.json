@@ -1,6 +1,7 @@
 {
   "name": "memory_game",
   "homepage": "https://h0lycow.github.io/memory_game/",
+  "base": "/memory_game/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
